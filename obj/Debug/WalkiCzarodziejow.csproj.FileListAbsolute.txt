@@ -1,0 +1,7 @@
+C:\Users\Konrad\source\repos\WalkiCzarodziejow\WalkiCzarodziejow\bin\Debug\WalkiCzarodziejow.exe.config
+C:\Users\Konrad\source\repos\WalkiCzarodziejow\WalkiCzarodziejow\bin\Debug\WalkiCzarodziejow.exe
+C:\Users\Konrad\source\repos\WalkiCzarodziejow\WalkiCzarodziejow\bin\Debug\WalkiCzarodziejow.pdb
+C:\Users\Konrad\source\repos\WalkiCzarodziejow\WalkiCzarodziejow\obj\Debug\WalkiCzarodziejow.csprojResolveAssemblyReference.cache
+C:\Users\Konrad\source\repos\WalkiCzarodziejow\WalkiCzarodziejow\obj\Debug\WalkiCzarodziejow.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\WalkiCzarodziejow\WalkiCzarodziejow\obj\Debug\WalkiCzarodziejow.exe
+C:\Users\Konrad\source\repos\WalkiCzarodziejow\WalkiCzarodziejow\obj\Debug\WalkiCzarodziejow.pdb
